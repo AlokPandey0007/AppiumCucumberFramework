@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="5" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-02T16:13:52 IST" name="Default suite" finished-at="2024-06-02T16:18:02 IST" duration-ms="250755">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-06-02T16:13:52 IST" name="Default test" finished-at="2024-06-02T16:18:02 IST" duration-ms="250755">
+      <class name="nagp.runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:13:52 IST" name="setUpClass" finished-at="2024-06-02T16:14:01 IST" duration-ms="9274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@56ed2baf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:14:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:14:42 IST" duration-ms="40803" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to perform action on all arc menu"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify List View"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 49da627b-6f2d-46bf-8e91-a6940c384108]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 49da627b-6f2d-46bf-8e91-a6940c384108
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at nagp.Base.AppiumWaits.waitForVisibilityOfElementLocated(AppiumWaits.java:49)
+at nagp.Base.AppiumActions.getText(AppiumActions.java:51)
+at nagp.pages.ArcMenuPage.ToastMessage(ArcMenuPage.java:59)
+at nagp.stepDefinitions.ArcMenuStepDefinition.user_should_see_text(ArcMenuStepDefinition.java:43)
+at ✽.user should see text "Twitter"(file:///C:/Users/alokpandey02/eclipse-workspace/NAGPAppiumAssignment/src/test/java/nagp/features/ArcMenu.feature:13)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:14:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:15:10 IST" duration-ms="28315" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to perform action on all arc menu"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify List View"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 0b5c23b4-3610-46e1-90b1-284cae78abd7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 0b5c23b4-3610-46e1-90b1-284cae78abd7
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at nagp.Base.AppiumWaits.waitForVisibilityOfElementLocated(AppiumWaits.java:49)
+at nagp.Base.AppiumActions.getText(AppiumActions.java:51)
+at nagp.pages.ArcMenuPage.ToastMessage(ArcMenuPage.java:59)
+at nagp.stepDefinitions.ArcMenuStepDefinition.user_should_see_text(ArcMenuStepDefinition.java:43)
+at ✽.user should see text "Camera"(file:///C:/Users/alokpandey02/eclipse-workspace/NAGPAppiumAssignment/src/test/java/nagp/features/ArcMenu.feature:13)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:15:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:15:38 IST" duration-ms="27617" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to perform action on all arc menu"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify List View"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 2ae1672e-35a8-424b-a3e8-7501aee5e405]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 2ae1672e-35a8-424b-a3e8-7501aee5e405
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at nagp.Base.AppiumWaits.waitForVisibilityOfElementLocated(AppiumWaits.java:49)
+at nagp.Base.AppiumActions.getText(AppiumActions.java:51)
+at nagp.pages.ArcMenuPage.ToastMessage(ArcMenuPage.java:59)
+at nagp.stepDefinitions.ArcMenuStepDefinition.user_should_see_text(ArcMenuStepDefinition.java:43)
+at ✽.user should see text "Air"(file:///C:/Users/alokpandey02/eclipse-workspace/NAGPAppiumAssignment/src/test/java/nagp/features/ArcMenu.feature:13)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:15:38 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:16:02 IST" duration-ms="24192" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to scroll till spefic country"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Drag and Drop"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //android.widget.TextView[@resource-id='com.boopathy.raja.tutorial:id/title' and @text='Drag & Drop'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: e13fbd5f-deb3-4346-b001-a69a68881765]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //android.widget.TextView[@resource-id='com.boopathy.raja.tutorial:id/title' and @text='Drag & Drop'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: e13fbd5f-deb3-4346-b001-a69a68881765
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at nagp.Base.AppiumWaits.waitForElementToBeClickable(AppiumWaits.java:37)
+at nagp.Base.AppiumActions.click(AppiumActions.java:31)
+at nagp.pages.AndroidMenuPage.clickOnDragAndDrop(AndroidMenuPage.java:28)
+at nagp.stepDefinitions.DragAndDropStepDefinition.user_is_on_drag_and_drop_screen(DragAndDropStepDefinition.java:32)
+at ✽.user is on drag and drop screen(file:///C:/Users/alokpandey02/eclipse-workspace/NAGPAppiumAssignment/src/test/java/nagp/features/DragAndDrop.feature:8)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:16:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:16:14 IST" duration-ms="11862" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to see Welcome Message on HomePage"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Homepage"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:16:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:16:28 IST" duration-ms="13768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify the options present under OPTIONS"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Homepage"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:16:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:16:51 IST" duration-ms="23451" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to scroll till spefic country"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify List View"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [a8762bd9-d5f1-4ff6-96c5-4304bdbfbd1c, executeScript {script=mobile: scrollGesture, args=[{width=200, top=100, left=100, percent=100.0, height=1000, direction=down}]}]
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: a8762bd9-d5f1-4ff6-96c5-4304bdbfbd1c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [a8762bd9-d5f1-4ff6-96c5-4304bdbfbd1c, executeScript {script=mobile: scrollGesture, args=[{width=200, top=100, left=100, percent=100.0, height=1000, direction=down}]}]
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: a8762bd9-d5f1-4ff6-96c5-4304bdbfbd1c
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:463)
+at nagp.Base.AppiumActions.scrollTillEnd(AppiumActions.java:79)
+at nagp.pages.ListViewPage.scrollToFindCountry(ListViewPage.java:32)
+at nagp.stepDefinitions.ListViewStepDefinition.user_should_see_his_country_on_scroll(ListViewStepDefinition.java:42)
+at ✽.user should see his "Zambia" country on scroll(file:///C:/Users/alokpandey02/eclipse-workspace/NAGPAppiumAssignment/src/test/java/nagp/features/ListView.feature:10)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:16:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:17:20 IST" duration-ms="29458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to refresh and new item added to list if he perform pull down gesture"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Pull down to refresh functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:17:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:17:39 IST" duration-ms="18156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to refresh and new item added to list if he perform pull down gesture"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Pull down to refresh functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:17:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-02T16:17:57 IST" duration-ms="18506" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify that user is able to refresh and new item added to list if he perform pull down gesture"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify Pull down to refresh functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:nagp.runner.TestRunner@d554c5f]" started-at="2024-06-02T16:17:57 IST" name="tearDownClass" finished-at="2024-06-02T16:18:02 IST" duration-ms="5267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- nagp.runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

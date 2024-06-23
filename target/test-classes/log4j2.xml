@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Properties>
+        <Property name="LogPattern">[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</Property>
+    </Properties>
+    <Appenders>
+		<Console name="console" target="SYSTEM_OUT" follow="true">
+            <PatternLayout pattern="${LogPattern}"/>
+        </Console>
+        <!-- RollingFile appender configuration -->
+        <RollingFile name="fileLogger" fileName="logs/log-${date:ddMMyyyy}.log"
+                     filePattern="logs/log-%d{yyyy-MM-dd}.log">
+            <PatternLayout>
+                <pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <!-- Time-based triggering policy -->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+                <!-- Size-based triggering policy -->
+                <SizeBasedTriggeringPolicy size="10MB" />
+            </Policies>
+            <!-- Max 10 files will be created every day -->
+            <DefaultRolloverStrategy max="10">
+                <!-- Delete old log files -->
+                <Delete basePath="logs" maxDepth="10">
+                    <IfFileName glob="log-*.log" />
+                    <IfLastModified age="30d" />
+                </Delete>
+            </DefaultRolloverStrategy>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Root logger referring to the file appender -->
+        <Root level="info">
+            <AppenderRef ref="fileLogger" />
+             <AppenderRef ref="console" />
+        </Root>
+    </Loggers>
+</Configuration>

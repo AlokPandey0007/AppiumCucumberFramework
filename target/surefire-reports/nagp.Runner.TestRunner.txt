@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+Test set: nagp.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 263.187 s <<< FAILURE! - in nagp.runner.TestRunner
+runScenario(nagp.runner.TestRunner)  Time elapsed: 31.285 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\alokpandey02\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell pm clear com.boopathy.raja.tutorial' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability 
+Host info: host: 'IN-BXWVDK3', ip: '192.168.1.104'
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:appWaitPackage=com.boopathy.raja.tutorial, appium:appWaitActivity=com.boopathy.raja.tutorial.Splash, platformName=ANDROID, appium:autoAcceptAlerts=true, appium:automationName=UiAutomator2, appium:deviceName=Android, appium:newCommandTimeout=300, appium:platformVersion=8.0, appium:app=C:\Users\alokpandey02\eclipse-workspace\NAGPAppiumAssignment\src\test\resources\Android_UI_Design-1.0 1.apk}], desiredCapabilities=Capabilities {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}}]
+Capabilities {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}
+
+runScenario(nagp.runner.TestRunner)  Time elapsed: 21.496 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\alokpandey02\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell pm clear com.boopathy.raja.tutorial' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability 
+Host info: host: 'IN-BXWVDK3', ip: '192.168.1.104'
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:appWaitPackage=com.boopathy.raja.tutorial, appium:appWaitActivity=com.boopathy.raja.tutorial.Splash, platformName=ANDROID, appium:autoAcceptAlerts=true, appium:automationName=UiAutomator2, appium:deviceName=Android, appium:newCommandTimeout=300, appium:platformVersion=8.0, appium:app=C:\Users\alokpandey02\eclipse-workspace\NAGPAppiumAssignment\src\test\resources\Android_UI_Design-1.0 1.apk}], desiredCapabilities=Capabilities {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}}]
+Capabilities {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}
+
+runScenario(nagp.runner.TestRunner)  Time elapsed: 32.104 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Toast[@text='Camera'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: C:\Users\alokpandey02\eclip..., appium:appPackage: com.boopathy.raja.tutorial, appium:appWaitActivity: com.boopathy.raja.tutorial...., appium:appWaitPackage: com.boopathy.raja.tutorial, appium:autoAcceptAlerts: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: C:\Users\alokpandey02\eclip..., appWaitActivity: com.boopathy.raja.tutorial...., appWaitPackage: com.boopathy.raja.tutorial, autoAcceptAlerts: true, automationName: UiAutomator2, deviceName: Android, newCommandTimeout: 300, platformName: ANDROID, platformVersion: 8.0}, appium:deviceApiLevel: 26, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for x86, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:newCommandTimeout: 300, appium:pixelRatio: 2.75, appium:platformVersion: 8.0.0, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2214, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: cd7ab2dd-04fc-47d1-8d89-4fb5a4eb76e3
+

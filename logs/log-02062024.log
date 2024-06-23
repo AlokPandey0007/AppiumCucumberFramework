@@ -1,0 +1,825 @@
+[INFO ] 2024-06-02 00:10:13.723 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:10:15.538 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:10:18.359 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:10:18.540 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:10:18.549 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:10:24.634 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:10:24.640 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:10:38.932 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:10:38.935 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:10:39.464 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:10:39.470 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:11:25.573 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:11:27.444 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:11:30.247 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:11:30.413 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:11:30.415 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:11:35.072 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:11:35.077 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:12:46.344 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:12:46.346 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:12:46.902 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:12:46.909 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:13:19.248 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:13:21.128 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:13:23.981 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:13:24.180 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:13:24.183 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:13:28.827 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:13:28.839 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:14:20.517 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:14:20.519 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:14:20.891 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:14:20.895 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:16:28.996 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:16:31.795 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:16:34.943 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:16:35.119 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:16:35.121 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:16:41.801 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:16:41.813 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:17:50.224 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:17:50.226 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:17:50.633 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:17:50.638 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:20:49.466 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:20:51.246 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:20:54.015 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:20:54.195 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:20:54.198 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:20:59.780 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:20:59.791 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:21:59.193 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:21:59.361 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:21:59.370 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:23:15.099 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:23:16.942 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:23:19.764 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:23:19.965 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:23:19.968 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:23:25.584 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:23:25.597 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:24:31.929 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:24:32.101 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:24:32.108 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:36:18.728 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:36:20.725 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:37:02.373 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:37:04.456 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:37:08.606 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:37:08.821 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:37:08.826 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:37:17.912 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:37:17.917 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:37:40.060 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:37:40.227 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:37:40.232 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:38:00.121 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:38:02.080 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:38:05.188 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:38:05.373 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:38:05.375 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:38:10.133 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:38:10.148 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:38:32.496 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:38:32.665 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:38:32.669 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:39:19.236 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:39:21.135 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:39:23.933 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:39:24.139 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:39:24.141 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:39:28.805 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:39:28.812 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:39:52.608 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:39:52.797 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:39:52.806 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:43:23.789 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:43:25.578 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:43:28.404 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:43:28.569 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:43:28.571 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:43:34.127 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:43:34.139 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:43:56.253 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:43:56.255 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:43:56.690 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:43:56.696 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:45:19.960 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:45:21.843 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:45:24.699 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:45:24.845 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:45:24.847 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:45:29.223 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:45:31.137 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:45:31.169 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:45:31.354 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:45:31.358 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:45:31.567 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:45:31.570 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:45:38.832 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:45:38.834 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:45:38.860 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:45:38.868 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:45:38.919 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:45:38.922 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:45:38.941 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:45:38.942 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:47:55.458 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:47:57.423 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:48:00.202 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:48:00.373 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:48:00.375 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:48:05.682 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:48:05.684 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:48:05.698 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:48:05.701 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:49:26.168 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:49:28.023 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:49:30.854 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:49:31.055 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:49:31.058 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:49:36.130 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:49:36.131 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:49:36.140 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:49:36.144 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:50:59.973 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:51:01.820 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:51:04.658 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:51:04.853 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:51:04.856 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:51:09.821 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:51:09.822 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 00:51:09.833 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:51:09.837 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 00:56:47.226 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 00:56:50.679 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 00:56:57.734 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 00:56:57.993 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 00:56:57.996 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:57:06.968 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 00:57:06.978 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 00:57:29.932 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 00:57:30.122 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 00:57:30.129 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 01:00:18.866 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 01:00:21.727 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 01:00:25.493 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 01:00:25.804 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:00:25.814 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:00:32.942 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:00:33.059 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:00:56.223 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:00:56.407 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:00:56.408 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:01:00.614 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:01:00.618 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:01:05.995 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:01:06.000 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 01:01:12.466 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:01:12.618 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:01:12.618 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:01:16.836 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:01:16.838 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:01:22.371 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 01:01:30.021 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:01:30.238 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:01:30.238 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:01:34.350 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:01:34.351 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:02:34.213 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:02:34.381 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 01:02:34.393 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 01:29:38.410 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 01:29:43.666 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 01:32:02.881 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 01:32:06.596 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 01:32:13.137 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 01:32:13.433 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:32:13.445 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:32:32.631 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:32:32.676 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:32:33.011 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:32:33.011 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:32:38.260 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:32:38.271 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:32:38.592 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:32:38.592 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:32:45.328 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:32:45.336 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:32:45.682 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 01:32:45.701 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 01:49:09.978 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 01:49:14.283 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 01:49:18.779 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 01:49:19.236 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:49:19.252 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:49:28.228 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:49:28.253 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:49:51.877 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:49:51.878 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 01:49:52.404 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:49:52.405 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:49:59.057 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:49:59.061 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:50:22.778 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:50:22.778 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 01:50:23.151 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 01:50:23.151 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:50:28.108 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 01:50:28.111 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 01:50:53.398 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 01:50:53.399 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 01:50:54.187 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 01:50:54.208 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 08:27:03.601 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 08:27:08.915 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 08:27:18.279 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 08:27:18.898 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 08:27:18.903 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:27:27.864 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 08:27:27.892 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:27:50.898 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 08:27:50.900 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 08:27:51.493 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 08:27:51.493 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:27:56.481 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 08:27:56.486 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:28:18.931 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 08:28:18.931 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 08:28:19.383 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 08:28:19.383 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:28:23.575 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 08:28:23.579 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:28:45.923 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 08:28:45.924 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 08:28:46.512 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 08:28:46.525 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 08:32:40.253 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 08:32:42.715 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 08:32:46.772 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 08:32:47.440 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 08:32:47.447 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:32:56.739 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 08:32:56.754 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:33:24.532 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 08:33:24.533 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 08:33:24.986 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 08:33:24.986 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:33:29.141 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 08:33:29.144 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:33:56.518 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 08:33:56.519 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 08:33:56.954 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 08:33:56.954 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:34:01.192 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 08:34:01.194 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 08:34:28.528 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 08:34:28.528 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 08:34:28.922 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 08:34:28.944 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:02:21.643 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:02:23.501 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:03:54.133 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:03:55.997 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:03:58.805 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:03:59.003 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:03:59.019 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:04:07.155 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:04:07.172 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:04:07.357 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:04:07.363 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:07:54.611 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:07:56.472 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:07:59.233 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:07:59.439 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:07:59.441 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:08:05.108 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:08:05.121 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:08:19.095 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:08:19.096 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:08:19.523 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:08:19.528 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:09:38.347 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:09:40.142 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:09:43.000 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:09:43.206 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:09:43.208 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:09:49.030 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:09:49.044 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:10:03.733 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:10:03.736 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:10:04.273 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:10:04.283 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:11:32.762 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:11:34.611 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:11:37.425 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:11:37.609 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:11:37.611 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:11:43.068 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:11:43.081 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:11:57.276 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:11:57.278 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:11:57.746 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:11:57.751 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:12:34.492 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:12:36.277 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:12:39.073 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:12:39.263 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:12:39.267 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:12:44.208 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:12:44.229 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:13:10.268 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:13:10.270 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:13:10.715 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:13:10.725 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:14:05.324 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:14:07.175 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:14:09.950 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:14:10.223 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:14:10.233 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:14:16.312 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:14:16.316 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:14:41.126 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:14:41.128 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:14:41.572 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:14:41.577 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:17:13.256 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:17:15.211 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:17:18.026 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:17:18.212 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:17:18.215 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:17:23.812 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:17:23.825 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:17:38.212 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:17:38.214 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:17:38.823 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:17:38.832 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:19:45.099 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:19:46.941 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:19:49.693 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:19:49.896 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:19:49.898 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:19:55.564 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:19:55.577 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:20:20.329 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:20:20.331 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:20:20.730 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:20:20.735 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:25:57.069 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:25:58.832 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:26:01.593 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:26:01.780 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:26:01.785 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:26:08.950 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:26:08.963 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:26:34.385 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:26:34.386 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:26:34.879 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:26:34.885 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:31:57.153 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:31:59.151 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:32:01.960 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:32:02.153 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:32:02.162 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:32:08.367 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:32:08.379 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:32:22.642 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:32:22.643 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:32:23.087 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:32:23.095 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:33:25.768 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:33:27.726 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:33:30.505 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:33:30.704 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:33:30.706 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:33:36.276 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:33:36.288 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:33:50.935 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:33:50.936 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:33:51.430 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:33:51.433 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:34:55.855 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:34:57.608 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:35:00.399 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:35:00.580 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:35:00.584 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:35:06.164 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:35:06.169 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:35:20.205 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:35:20.207 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:35:20.655 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:35:20.659 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:39:55.572 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:40:01.568 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:40:08.567 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:40:08.903 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:40:08.907 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:40:22.758 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:40:22.770 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:40:44.040 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:40:44.279 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:40:44.288 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:42:04.613 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:42:07.724 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:42:12.361 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:42:12.687 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:42:12.691 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:42:20.743 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:42:20.768 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:42:42.647 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:42:42.923 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:42:42.924 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:42:57.050 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:42:57.053 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:43:19.147 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:43:19.380 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:43:19.381 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:43:25.762 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:43:25.765 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:43:45.302 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:43:45.489 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:43:45.498 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:44:30.016 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:44:31.847 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:44:34.645 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:44:34.941 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:44:34.950 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:44:40.681 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:44:40.689 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:45:08.801 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:45:08.803 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:45:09.210 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:45:09.210 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:45:13.135 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:45:13.138 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:45:40.558 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:45:40.558 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:45:40.914 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:45:40.915 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:45:44.976 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:45:44.977 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:46:12.799 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:46:12.799 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:46:13.191 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:46:13.192 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:46:17.232 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:46:17.233 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:46:39.424 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:46:39.584 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:46:39.586 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:46:43.505 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:46:43.507 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:46:48.653 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:46:48.654 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 09:46:55.110 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:46:55.254 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:46:55.254 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:46:59.193 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:46:59.194 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:47:04.384 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 09:47:12.026 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:47:12.232 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:47:12.232 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:47:16.261 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:47:16.263 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:48:15.709 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:48:15.871 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:48:15.871 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:48:19.949 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:48:19.951 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:48:39.129 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:48:39.302 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:48:39.303 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:48:43.459 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:48:43.461 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:49:03.081 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:49:03.261 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:49:03.261 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:49:07.617 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:49:07.618 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:49:27.388 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:49:27.552 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:49:27.567 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:53:40.541 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:53:42.452 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:53:45.274 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:53:45.465 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:53:45.466 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:53:51.083 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:53:51.097 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:53:51.100 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 09:53:57.526 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:53:57.675 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:53:57.675 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:54:01.577 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:54:01.580 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 09:54:09.298 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:54:09.469 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:54:09.474 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 09:54:37.067 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 09:54:38.910 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 09:54:41.736 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 09:54:41.919 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:54:41.921 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:54:46.524 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:55:08.815 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:55:08.816 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:55:09.279 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:55:09.280 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:55:13.306 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:55:25.001 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:55:25.001 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:55:25.376 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:55:25.376 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:55:29.539 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:55:52.086 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:55:52.086 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 09:55:52.619 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:55:52.619 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:55:57.209 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:56:14.430 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:56:14.627 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:56:14.627 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:56:19.088 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:56:19.090 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:56:19.093 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 09:56:25.605 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:56:25.765 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:56:25.765 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:56:30.258 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:56:30.260 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 09:56:37.893 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:56:38.086 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:56:38.086 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:56:42.585 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:57:36.773 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:57:36.955 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:57:36.955 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:57:41.584 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:57:55.629 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:57:55.821 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:57:55.821 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:58:00.595 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:58:14.595 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:58:14.777 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 09:58:14.777 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 09:58:19.299 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 09:58:33.323 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 09:58:33.527 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 09:58:33.532 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 10:14:41.294 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 10:14:42.722 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 10:14:46.091 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 10:14:46.467 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:14:46.470 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:14:53.951 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:15:05.772 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:15:05.976 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 10:15:05.981 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 10:20:08.674 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 10:20:10.123 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 10:20:13.841 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 10:20:14.169 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:20:14.172 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:20:20.947 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:20:32.743 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:20:32.744 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 10:20:33.257 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:20:33.257 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:20:37.830 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:20:59.829 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:20:59.829 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 10:21:00.231 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:21:00.231 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:21:04.915 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:21:27.571 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:21:27.571 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 10:21:28.074 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:21:28.074 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:21:32.824 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:21:44.812 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:21:45.036 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:21:45.036 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:21:49.835 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:21:49.839 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:21:49.841 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 10:21:56.382 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:21:56.556 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:21:56.557 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:22:01.164 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:22:01.166 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 10:22:08.889 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:22:09.121 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:22:09.121 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:22:13.736 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:23:08.051 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:23:08.221 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:23:08.221 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:23:12.870 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:23:26.918 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:23:27.095 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:23:27.095 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:23:31.776 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:23:45.889 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:23:46.063 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 10:23:46.063 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 10:23:50.828 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 10:24:05.061 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 10:24:05.268 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 10:24:05.274 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 16:13:54.447 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 16:13:56.306 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 16:14:01.405 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 16:14:01.848 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:14:01.870 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:14:18.784 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:14:41.695 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:14:41.698 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:14:42.322 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:14:42.323 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:14:47.417 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:15:10.168 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:15:10.168 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:15:10.626 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:15:10.627 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:15:15.669 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:15:37.829 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:15:37.829 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:15:38.249 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:15:38.250 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:15:44.802 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:16:01.859 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:16:01.859 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:16:02.445 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:16:02.445 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:16:07.666 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:16:07.669 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:16:07.671 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 16:16:14.108 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:16:14.309 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:16:14.309 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:16:20.196 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:16:20.199 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 16:16:27.891 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:16:28.070 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:16:28.071 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:16:32.943 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:16:51.502 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:16:51.503 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:16:51.526 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:16:51.526 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:17:06.625 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:17:20.840 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:17:20.980 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:17:20.980 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:17:25.002 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:17:38.989 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:17:39.136 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:17:39.136 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:17:43.532 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 16:17:57.493 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:17:57.645 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 16:17:57.650 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 16:30:28.917 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 16:30:30.407 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 16:30:35.141 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 16:30:35.597 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:35.609 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:36.572 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:36.574 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:36.621 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:36.621 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:36.789 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:36.790 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:36.803 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:36.803 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:36.966 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:36.966 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:36.983 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:36.983 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:37.175 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:37.176 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:37.198 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:37.198 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:37.375 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:37.376 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:37.396 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:37.396 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:37.565 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:37.565 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:37.578 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:37.579 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:37.773 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:37.773 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:37.790 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:37.791 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:37.965 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:37.965 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:37.973 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:37.974 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:38.166 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:38.166 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:38.176 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:30:38.176 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:30:38.350 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:30:38.350 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:30:38.358 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 16:30:38.365 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 16:31:14.573 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 16:31:16.054 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 16:31:19.472 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 16:31:19.782 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:19.786 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:20.834 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:20.836 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:20.873 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:20.873 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:21.043 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:21.043 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:21.057 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:21.058 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:21.248 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:21.249 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:21.267 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:21.268 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:21.448 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:21.448 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:21.468 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:21.468 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:21.641 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:21.642 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:21.656 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:21.657 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:21.820 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:21.820 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:21.836 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:21.836 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:21.999 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:21.999 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:22.010 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:22.010 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:22.185 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:22.185 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:22.196 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:22.197 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:22.384 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:22.385 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:22.396 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 16:31:22.396 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 16:31:22.595 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 16:31:22.595 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 16:31:22.605 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 16:31:22.615 [main] TestLogger - Thread 1: Appium service stopped.
+[INFO ] 2024-06-02 17:22:26.966 [main] TestLogger - Thread 1: Running Before All method
+[INFO ] 2024-06-02 17:22:29.770 [main] TestLogger - Thread 1: Starting Appium service.
+[INFO ] 2024-06-02 17:22:37.635 [main] TestLogger - Thread 1: Appium service started.
+[INFO ] 2024-06-02 17:22:38.078 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:22:38.081 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:22:50.278 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:23:13.398 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:23:13.399 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 17:23:14.176 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:23:14.177 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:23:20.824 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:23:44.354 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:23:44.355 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 17:23:44.948 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:23:44.948 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:23:51.322 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:24:15.563 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:24:15.563 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 17:24:16.219 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:24:16.219 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:24:22.557 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:24:34.804 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:24:35.021 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:24:35.023 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:24:41.803 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:24:41.809 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:24:41.810 [main] TestLogger - Thread 1: Finding Text on home screen
+[INFO ] 2024-06-02 17:24:48.255 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:24:48.439 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:24:48.440 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:24:55.241 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:24:55.244 [main] TestLogger - Thread 1: Clicking on OPTIONS
+[INFO ] 2024-06-02 17:25:03.130 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:25:03.377 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:25:03.377 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:25:10.190 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:26:06.307 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:26:06.521 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:26:06.521 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:26:12.858 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:26:27.671 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:26:27.958 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:26:27.959 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:26:34.358 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:26:48.894 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:26:49.284 [main] TestLogger - Thread 1: Launching application
+[INFO ] 2024-06-02 17:26:49.284 [main] TestLogger - Thread 1: Creating appium driver
+[INFO ] 2024-06-02 17:26:55.789 [main] TestLogger - Thread 1: Application launched
+[INFO ] 2024-06-02 17:27:17.945 [main] TestLogger - Thread 1: Running After scenario
+[INFO ] 2024-06-02 17:27:17.945 [main] TestLogger - Thread 1: Scenario Failed.. Capturing screenshot.
+[INFO ] 2024-06-02 17:27:18.706 [main] TestLogger - Thread 1: Execution ends. Stopping appium service.
+[INFO ] 2024-06-02 17:27:18.766 [main] TestLogger - Thread 1: Appium service stopped.
